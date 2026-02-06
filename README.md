@@ -1,5 +1,5 @@
-# 🚀 Polymarket HFT Bot: Performance Dashboard
-### Portfolio Performance & P&L Analysis Report
+# 🚀 Polymarket High Profit Trading Bot
+### Portfolio Performance & P&L Analysis Report from Live Trading!! 
 
 [![ROI](https://img.shields.io/badge/ROI-+193.5%25-brightgreen?style=for-the-badge&logo=rocket)](file:///Users/joergpeetz/Downloads/polymarket-v2-temporal/polymarket-maker-bot/PORTFOLIO_ANALYSIS.md)
 [![Status](https://img.shields.io/badge/Status-Outperforming-blue?style=for-the-badge)](file:///Users/joergpeetz/Downloads/polymarket-v2-temporal/polymarket-maker-bot/PORTFOLIO_ANALYSIS.md)
